@@ -1,0 +1,8 @@
+package enums;
+
+public enum Context {
+	EXPERIENCE_PRICE,
+	EXPERIENCE_DATE,
+	EXPERIENCE_SERVICE,
+	EXPERIENCE_PRODUCT;
+}
